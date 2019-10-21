@@ -1,4 +1,4 @@
 calcFlex
 
-Calculadora simples em JavaScript para Etanol ou Gasolina
+Calculadora simples em HTML/JavaScript para Etanol ou Gasolina
 
